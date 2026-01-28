@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Silas! 
 - 👀 I'm passionate about web development and eager to take on exciting projects in this field.
 - 🌱 I’m currently learning Node js
-- 💞️ I’m looking to collaborate on on frontend projects, bringing creativity and expertise to deliver impactful solutions.
+- 💞️ I’m looking to collaborate on frontend projects, bringing creativity and expertise to deliver impactful solutions.
 - 📫 silasoyibs@gmail.com
