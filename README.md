@@ -1,5 +1,9 @@
-- 👋 Hi, I'm Silas! 
-- 👀 I'm passionate about web development and eager to take on exciting projects in this field.
-- 🌱 I’m currently learning Node js
-- 💞️ I’m looking to collaborate on frontend projects, bringing creativity and expertise to deliver impactful solutions.
-- 📫 silasoyibs@gmail.com
+👋 Hi, I'm Silas!
+
+👀 I'm passionate about full-stack web development and building practical, impactful web applications.
+
+💻 I work with PHP, Node.js, and Express to build robust and scalable web applications.
+
+💞️ I’m looking to collaborate on full-stack projects, bringing creativity and technical expertise to deliver effective solutions.
+
+📫 silasoyibs@gmail.com
